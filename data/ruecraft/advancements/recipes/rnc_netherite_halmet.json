@@ -1,5 +1,5 @@
 {
-    "parent": "ezcraft:recipes/root",
+    "parent": "ruecraft:recipes/root",
     "criteria": {
         "have_nether_star": {
             "trigger": "minecraft:inventory_changed",
@@ -14,7 +14,7 @@
     },
     "rewards": {
         "recipes": [
-            "ezcraft:rnc_netherite_boots"
+            "ezcraft:rnc_netherite_halmet"
         ]
     }
 }
