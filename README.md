@@ -40,7 +40,7 @@
 - 下界合金护腿 - Netherire Leggings  
 ​![RNC_leggings](https://docimg2.docs.qq.com/image/8fXXgoxjwciA-8isynYgBQ)
 
-- 下界合金鞋 - NetherireBoots  
+- 下界合金靴 - Netherire Boots  
 ​![RNC_boots](https://docimg8.docs.qq.com/image/rOco4dmNqEcQjQsVGRafYQ)
 
 ## 一份（奇怪的）福利  
