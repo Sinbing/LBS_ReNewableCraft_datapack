@@ -1,32 +1,20 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"HXH",
-		"OTO",
-		"IFI"
-	],
-	"key": {
-        "H": {
-            "item": "minecraft:wither_skeleton_skull"
-        },
-        "X": {
-            "item": "minecraft:nether_star"
-        },
-        "O": {
-            "item": "minecraft:obsidian"
-        },
-        "T": {
-            "item": "minecraft:diamond_pickaxe"
-        },
-        "I": {
-            "item": "minecraft:blaze_rod"
-        },
-        "F": {
-            "item": "minecraft:wither_rose"
+    "parent": "ezcraft:recipes/root",
+    "criteria": {
+        "have_nether_star": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star"
+                    }
+                ]
+            }
         }
     },
-    "result": {
-        "item": "minecraft:netherite_pickaxe",
-        "count": 1
-	}
+    "rewards": {
+        "recipes": [
+            "ezcraft:rnc_netherite_boots"
+        ]
+    }
 }
