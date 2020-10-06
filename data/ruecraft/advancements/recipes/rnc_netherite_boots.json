@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"HXH",
+		"OTO",
+		"OFO"
+	],
+	"key": {
+        "H": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "X": {
+            "item": "minecraft:nether_star"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "T": {
+            "item": "minecraft:diamond_boots"
+        },
+        "F": {
+            "item": "minecraft:wither_rose"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_boots",
+        "count": 1
+	}
+}
