@@ -12,41 +12,39 @@
 3. 在游戏中使用命令`/reload`，加载数据包  
 
 4. 在游戏中使用命令`/datapack list`，查看已载入的数据包  
-   - 如返回已启用数据包中包含`[file/LBS_Ez_Crafting]`则安装成功  
+   - 如返回已启用数据包中包含`[file/LBS-RueCrafting]`则安装成功  
    - 使用命令`/datapack enable`或`/datapack disable`可以分别**启用/禁用**数据包  
 
 ## [合成配方展示](https://docs.qq.com/doc/DZkp1cURtSHVNU0FO)  
-- 下界合金工具 - Netherite Tools  
+- 下界合金镐 - Netherite Pickaxe  
+![RNC_pixkaxe](https://docimg6.docs.qq.com/image/BeSwXbRB49XzhuDoywCcBg)
 
-  ​            ![rnc_pixkaxe](https://docimg6.docs.qq.com/image/BeSwXbRB49XzhuDoywCcBg?w=311&h=153)            
+- 下界合金斧 - Netherite Axe  
+![RNC_axe](https://docimg7.docs.qq.com/image/V0gFbJM480oxrxaCRNP7WA)
 
-  ​            ![rnc_axe](https://docimg7.docs.qq.com/image/V0gFbJM480oxrxaCRNP7WA?w=311&h=153)            
+- 下界合金锹 - Netherite Shovel  
+![RNC_shovel](https://docimg3.docs.qq.com/image/Ox1rBLroxw9-GaZyl7v7vw)
 
-  ​            ![rnc_shovel](https://docimg3.docs.qq.com/image/Ox1rBLroxw9-GaZyl7v7vw?w=311&h=153)            
+- 下界合金锄 - Netherite Hoe  
+![RNC_hoe](https://docimg7.docs.qq.com/image/umetiLiKhCUqz_o32Sxh_w)
 
-  ​            ![rnc_hoe](https://docimg7.docs.qq.com/image/umetiLiKhCUqz_o32Sxh_w?w=311&h=154)            
-
-- 下界合金剑 - Netherite Sword
-
-  ​            ![img](https://docimg1.docs.qq.com/image/BmpJxl3GIocqaCPQTBMgAQ?w=311&h=153)            
+- 下界合金剑 - Netherite Sword  
+![RNC_sword](https://docimg1.docs.qq.com/image/BmpJxl3GIocqaCPQTBMgAQ)
 
 - 下界合金头盔 - Netherire Helmet  
-
-  ​            ![rnc_helmet](https://docimg1.docs.qq.com/image/xIInR2ZRFkkILJS-myJgCw?w=311&h=153)            
+![RNC_helmet](https://docimg1.docs.qq.com/image/xIInR2ZRFkkILJS-myJgCw)
 
 - 下界合金胸甲 - Netherire Chestplate  
+![RNC_chestplate](https://docimg5.docs.qq.com/image/utEhrcOp5Zkjqboe2SNQLQ)
 
-  ​            ![rnc_chestplate](https://docimg5.docs.qq.com/image/utEhrcOp5Zkjqboe2SNQLQ?w=311&h=153)            
+- 下界合金护腿 - Netherire Leggings  
+​![RNC_leggings](https://docimg2.docs.qq.com/image/8fXXgoxjwciA-8isynYgBQ)
 
-- 下界合金护腿 - Netherire Leggings 
-
-  ​            ![rnc_leggings](https://docimg2.docs.qq.com/image/8fXXgoxjwciA-8isynYgBQ?w=311&h=153)            
-
-- 下界合金鞋 - NetherireBoots
-
-  ​            ![rnc_boots](https://docimg8.docs.qq.com/image/rOco4dmNqEcQjQsVGRafYQ?w=311&h=153)            
+- 下界合金靴 - Netherire Boots  
+​![RNC_boots](https://docimg8.docs.qq.com/image/rOco4dmNqEcQjQsVGRafYQ)
 
 ## 一份（奇怪的）福利  
 ~~兵煲可爱妈妈爱~~  
 截取了b站up主[零之时_zero](https://space.bilibili.com/23535347)发布在[动态](https://t.bilibili.com/411789159264153150?tab=2)中的一张5K壁纸作为数据包的图标，请在1.16.2以上的客户端预览  
-![rue](https://github.com/Van-Cyclization/LBS_Ez_Crafting/blob/master/rue.png)  
+
+![rue_bing](https://i.loli.net/2020/10/06/hmAOD261GscwVN8.png)
